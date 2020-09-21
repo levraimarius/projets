@@ -1,0 +1,20 @@
+@media (max-width: 769px) {
+    .article1{
+        font-size:30px;
+    }
+    .article1 h3 {
+        font-size:20px;
+    }
+    .redimentionnement{
+        font-size:10px;
+    }
+    .logos{
+        padding-top:5px;
+    }
+    .article2{
+        font-size:15px;
+    }
+    .article2 h3{
+        font-size:20px;
+    }
+}
